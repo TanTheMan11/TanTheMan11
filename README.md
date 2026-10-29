@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @TanTheMan11
-- 👀 I’m interested in engineering!
-- 🌱 I’m currently learning how to use GitHub.
-- 💞️ I’m looking to collaborate on GitHub.
-- 📫 How to reach me: GitHub.
-- 😄 Pronouns: Him
-- ⚡ Fun fact: You see lightning before you hear it.
+- 👀 I’m an aeronautical engineer @ Imperial
+- 🌱 Programming Languages | Python, Java, SQL, MATLAB, Haskell, Julia
+- 😄 Developer Tools | IntelliJ, PyCharm, Visual Studio Code
+- ⚡ Engineering & Design | 3DEXPERIENCE (Dassault Systémes), Onshape
+- 💞️ Areas of Interest | Autonomous Systems, Machine Learning, Robotics, Aerospace
 
 <!---
 TanTheMan11/TanTheMan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
